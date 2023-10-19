@@ -11,3 +11,5 @@
 ## Testando 3
 
 Em procura do conhecimento.
+
+### Realizando a atividade nº 1 conforme solicitado
