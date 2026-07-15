@@ -1,62 +1,174 @@
-# 👋 Olá, Eu sou Pedro!
+# 👋 Olá, eu sou Pedro Pires
 
-> Bem-vindo
+### Desenvolvedor de Software | Back-end & Web
 
-## 🌱 Sobre Mim
+Sou desenvolvedor de software com foco na construção de **aplicações web, APIs REST, sistemas de negócio e integração com bancos de dados**.
 
-Sou Pedro, um entusiasta da programação. Com uma paixão por tecnologia e um desejo constante de aprender, estou explorando várias linguagens e ferramentas para construir uma base sólida no desenvolvimento de software.
+Atualmente curso **Engenharia de Software** e desenvolvo projetos utilizando principalmente **Ruby on Rails, C#, PHP, JavaScript e PostgreSQL**, buscando aplicar boas práticas de desenvolvimento, organização de código, testes e arquitetura de software.
 
-> "Cada linha de código é um passo mais perto de transformar ideias em realidade."
-
-Estou focado em melhorar minhas habilidades em desenvolvimento web e back-end, e estou sempre aberto para aprender novas tecnologias e práticas.
-
-## 🚀 Habilidades e Conhecimentos
-
-- **🌐 Front-end:**
-  - HTML5: Estruturo páginas web com semântica e acessibilidade em mente.
-  - CSS3: Crio interfaces estilizadas e responsivas.
-  - JavaScript: Adiciono interatividade e dinamismo às páginas web.
-
-- **🔧 Back-end:**
-  - C#: Estou aprendendo a construir aplicações robustas e eficientes.
-  - Ruby on Rails: Criando aplicações web ágeis e escaláveis.
-  - PostgreSQL: Gerenciando dados de forma eficiente com SQL.
- 
-- **🛠️ Ferramentas e Controle de Versão:**
-  - Git: Familiaridade com controle de versão, gerenciamento de branches e colaboração em projetos usando GitHub.
-
-![Habilidades](https://img.shields.io/badge/Habilidades-Em%20Desenvolvimento-lightgreen)
-
-## 🎓 Educação
-
-- **📚 Engenharia de Software:** Atualmente cursando Engenharia de Software, o que me proporciona uma base teórica sólida e uma compreensão abrangente dos princípios de desenvolvimento e gestão de software.
-
-
-## 🌟 Planejo Aprender
-
-- **🔋 React:** Aprender a construir interfaces de usuário dinâmicas e reativas.
-- **🔧 Node.js:** Desenvolvimento de servidores eficientes e escaláveis.
-- **🛠️ Docker:** Implementação de contêineres para simplificar o desenvolvimento e a implantação de aplicativos.
-- **🔬 RSpec:** Aprender a escrever testes automatizados em Ruby, garantindo a qualidade do código.
-- **🕵️ Capybara:** Explorar testes de aceitação e de interface do usuário com Ruby, simulando interações do usuário para garantir que as aplicações funcionem conforme o esperado.
-
-![Planejo Aprender](https://img.shields.io/badge/Planejo%20Aprender-Futuro-green)
-
-## 📚 Recursos e Referências
-
-- **📖 [MDN Web Docs](https://developer.mozilla.org):** Um recurso fantástico para aprender HTML, CSS e JavaScript.
-- **📘 [Ruby on Rails Guides](https://guides.rubyonrails.org):** Ótimo para entender melhor o framework Ruby on Rails.
-- **📊 [PostgreSQL Documentation](https://www.postgresql.org/docs):** Ajuda a aprofundar o conhecimento em gerenciamento de banco de dados.
-
-## 📫 Contato
-
-- **🔗 [LinkedIn](https://www.linkedin.com/in/pedro-prates-p/):** Conecte-se comigo para networking e colaborações.
-- **📧 [Email](pedro.2007.brasil@hotmail.com):** Sinta-se à vontade para me enviar um e-mail sobre oportunidades e parcerias.
+Tenho experiência prática no desenvolvimento de aplicações completas, desde a modelagem do banco de dados e construção do back-end até a criação de interfaces e integração entre sistemas.
 
 ---
 
-> "A programação não é apenas escrever código; é criar soluções que fazem a diferença." 
+## 🚀 Sobre mim
+
+* 💻 Desenvolvimento de aplicações web e APIs REST
+* ⚙️ Experiência com Ruby on Rails, C# e PHP
+* 🗄️ Modelagem e integração com bancos de dados relacionais
+* 🧪 Interesse em testes automatizados e qualidade de software
+* 🔐 Desenvolvimento de autenticação e autorização
+* 🔎 Integração com APIs e mecanismos de busca
+* 📚 Graduando em Engenharia de Software
+* 🚀 Em constante evolução em arquitetura, DevOps e boas práticas de desenvolvimento
 
 ---
 
-![Obrigado](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+## 🛠️ Tecnologias e Ferramentas
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,cs,php" />
+</p>
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### Ferramentas e Ambiente
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+---
+
+# 📌 Projetos em destaque
+
+## 💼 Recruiter API
+
+API REST desenvolvida para gerenciamento de processos de recrutamento, permitindo o controle de recrutadores, vagas e candidaturas.
+
+### Principais recursos
+
+* 🔐 Autenticação utilizando JWT
+* 👤 Gerenciamento de recrutadores
+* 💼 CRUD completo de vagas
+* 📝 Sistema de candidaturas
+* 🚫 Prevenção de candidaturas duplicadas
+* 🔎 Busca de vagas
+* 📄 Paginação de resultados
+* 🧪 Testes automatizados com RSpec
+* 🗄️ PostgreSQL
+* 🏗️ Organização da lógica de negócio através de Services
+
+### Tecnologias
+
+`Ruby` `Ruby on Rails` `PostgreSQL` `RSpec` `JWT` `REST API`
+
+🔗 [Acessar repositório](https://github.com/phx90/Recruiter_API)
+
+---
+
+## 🐕 SegFox
+
+Aplicação web desenvolvida para gerenciamento e apresentação de cães de um canil.
+
+O projeto possui uma área administrativa para gerenciamento dos animais e uma interface pública para apresentação das raças e cães disponíveis.
+
+### Principais recursos
+
+* 🐶 Cadastro e gerenciamento de cães
+* 🖼️ Upload de múltiplas imagens
+* 👨‍👩‍👦 Relacionamento entre pai e mãe dos animais
+* 🏷️ Organização por raças
+* ⚙️ Área administrativa
+* 📱 Interface responsiva
+* 🎠 Carrossel de imagens
+* 🗄️ Persistência de dados com PostgreSQL
+* 📦 Gerenciamento de arquivos com Active Storage
+
+### Tecnologias
+
+`Ruby` `Ruby on Rails` `PostgreSQL` `Tailwind CSS` `Active Storage` `JavaScript`
+
+🔗 [Acessar repositório](https://github.com/phx90/SegFox)
+
+---
+
+## 🌦️ Weather API
+
+Aplicação desenvolvida para consulta de informações climáticas através da integração com uma API externa.
+
+### Principais recursos
+
+* 🌎 Consulta de informações meteorológicas
+* 🔗 Consumo de API externa
+* 📡 Requisições HTTP
+* 🖥️ Interface para consulta de cidades
+
+### Tecnologias
+
+`PHP` `HTML` `CSS` `JavaScript` `API REST`
+
+🔗 [Acessar repositório](https://github.com/phx90/weather-api)
+
+---
+
+
+# 🧠 Atualmente aprofundando conhecimentos em
+
+* Arquitetura de Software
+* APIs REST
+* Ruby on Rails
+* C# e ecossistema .NET
+* Testes automatizados
+* Docker
+* CI/CD
+* Clean Code
+* SOLID
+* Design Patterns
+
+---
+
+# 🎯 Objetivos profissionais
+
+Busco oportunidades em desenvolvimento de software onde eu possa contribuir na criação e evolução de aplicações, APIs e sistemas de negócio, enquanto continuo aprimorando meus conhecimentos técnicos e minha experiência com projetos reais.
+
+Tenho especial interesse em atuar com:
+
+* Desenvolvimento Back-end
+* Desenvolvimento Web
+* APIs REST
+* Sistemas corporativos
+* Integração de sistemas
+* Banco de dados
+* Automação de processos
+
+---
+
+# 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-prates-p/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:pedro.2007.brasil@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Construindo projetos, resolvendo problemas e evoluindo continuamente como desenvolvedor.</i>
+</p>
